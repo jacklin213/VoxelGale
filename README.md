@@ -1,6 +1,6 @@
 VoxelGale (VoxelGale)
 =============
-A test voxel game built using LWJGL
+A test voxel game built using LWJGL used for learn rendering and block generation methods.
 
 Licensed under the [Apache License].
 
